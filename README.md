@@ -38,5 +38,22 @@ Desde la psicología cognitiva, estos controles funcionan como *andamios mentale
 ---
 ![image (1)](https://github.com/user-attachments/assets/75c4f059-e27e-446e-bc2c-5d4102fb686e)
 
-```text
-Ejemplo: un botón “Actualizar datos” que corre una macro de limpieza.
+
+
+
+# ¿Qué es una macro en Excel?
+
+Una **macro** es una secuencia de acciones automatizadas que Excel ejecuta por vos: clics, fórmulas, filtros, formato, etc.  
+Sirve para ahorrar tiempo y evitar errores repetitivos. En palabras simples: *Excel hace el trabajo tedioso por vos*.
+---
+
+## ¿Para qué se usan?
+
+- Automatizar tareas repetitivas.  
+- Crear botones que ejecutan acciones.  
+- Limpiar y transformar datos.  
+- Generar reportes con un clic.  
+- Construir pequeñas herramientas dentro de Excel.
+
+---![image (2)](https://github.com/user-attachments/assets/c1eb9a6e-39e4-4acc-ac94-5c6ddf5255c8)
+
