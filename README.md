@@ -57,3 +57,25 @@ Sirve para ahorrar tiempo y evitar errores repetitivos. En palabras simples: *Ex
 
 ---![image (2)](https://github.com/user-attachments/assets/c1eb9a6e-39e4-4acc-ac94-5c6ddf5255c8)
 
+
+# ¿Qué es una Tabla Dinámica en Excel?
+
+Una **tabla dinámica** es una herramienta que te permite resumir, reorganizar y analizar grandes cantidades de datos sin modificar la tabla original.  
+Es como una foto inteligente de tus datos: la movés, la girás, la filtrás… y te muestra cosas que antes no veías.
+
+
+---
+
+## ¿Para qué sirve?
+
+- Resumir información rápidamente.  
+- Agrupar y clasificar datos.  
+- Crear reportes sin fórmulas complejas.  
+- Detectar tendencias y patrones.  
+- Convertir un dataset en algo entendible.
+
+---
+
+![image (3)](https://github.com/user-attachments/assets/26b01ddc-aa64-40b5-89e6-9110ab8da212)
+
+
